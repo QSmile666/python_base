@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 23 10:58:35 CST 2020","Thu Apr 23 10:58:35 CST 2020","1","","test_alluredemo","","","","test_success",""
+"failed","Thu Apr 23 10:58:35 CST 2020","Thu Apr 23 10:58:35 CST 2020","0","","test_alluredemo","","","","test_failure",""
+"broken","Thu Apr 23 10:58:35 CST 2020","Thu Apr 23 10:58:35 CST 2020","0","","test_alluredemo","","","","test_broken",""
+"skipped","Thu Apr 23 10:58:35 CST 2020","Thu Apr 23 10:58:35 CST 2020","1","","test_alluredemo","","","","test_skip",""

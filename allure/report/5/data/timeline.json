@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "mac-lee.local",
+    "children" : [ {
+      "name" : "10212-MainThread",
+      "children" : [ {
+        "name" : "test_success",
+        "uid" : "b7a745376f3a722",
+        "parentUid" : "f2e584163c3a436714d126d193306fd3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587610715619,
+          "stop" : 1587610715620,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_broken",
+        "uid" : "77ef1d8ab85dc5ee",
+        "parentUid" : "f2e584163c3a436714d126d193306fd3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587610715661,
+          "stop" : 1587610715661,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_failure",
+        "uid" : "5211a15fc82c6d46",
+        "parentUid" : "f2e584163c3a436714d126d193306fd3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1587610715622,
+          "stop" : 1587610715622,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_skip",
+        "uid" : "827d8228511ce562",
+        "parentUid" : "f2e584163c3a436714d126d193306fd3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1587610715654,
+          "stop" : 1587610715655,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2e584163c3a436714d126d193306fd3"
+    } ],
+    "uid" : "dfdc5f1cb95ac16a3e0592a079367af1"
+  } ]
+}
